@@ -1,0 +1,24 @@
+{
+  "name": "try",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minahany0000/try.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/minahany0000/try/issues"
+  },
+  "homepage": "https://github.com/minahany0000/try#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
